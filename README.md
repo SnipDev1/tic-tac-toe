@@ -3,5 +3,3 @@ Hello, everyone! I would like you to present your game of tic-tac-toe made with 
 Installing:
 1)You should install python3
 2)Start setup.py from archive
-PS:
-You can do anything with my code.
